@@ -5,7 +5,7 @@ Welcome to my portfolio! This repository walks you through my projects, skills, 
 ## Getting started
 To view or use the portfolio:
 1. **Visit my GitHub profile**
-👉 [https://github.com/martynasarpkaya/martynatoporek.github.io]
+👉[MT] (https://github.com/martynasarpkaya/martynatoporek.github.io)
 2. **Explore the repositories**
 Projects are organized into folders and pinned for quick access
 3. **Clone a repository** to your local machine:
