@@ -1,8 +1,8 @@
 layout: default
 title: Home
 
-# Hi this is Martyna 👋
+# Hi Martyna here 👋
 
-I am technical communications professional with 10 + years’ experience working with a wide variety of customers, products, and end-user groups.
-[O mnie](about.md)
-[Projekty i dokumentacja](projects.md)
+I am a technical writer with experience in creating documentation and user guides. Here are some examples of my projects and links to my work.
+👉 [About me](about.md)
+👉 [Projects and Documentation](projects.md)
