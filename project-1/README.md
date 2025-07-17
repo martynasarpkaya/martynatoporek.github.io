@@ -1,2 +1,2 @@
 
-[Click to open PDF](docs/Assembly_POB_EN_001_Pilot_Opt.pdf)
+[Click to download PDF](docs/Assembly_POB_EN_001_Pilot_Opt.pdf)
