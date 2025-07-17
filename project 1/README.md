@@ -1,5 +1,5 @@
 layout: default
 title: Projects
 
-# Samples of my documentation
+# Projekt 1 - dokumtacja ..
 [Click here](https://github.com/martynatoporek/......)
