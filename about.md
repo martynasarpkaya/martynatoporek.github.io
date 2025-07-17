@@ -20,6 +20,6 @@ I am technical communications professional with 10 + years’ experience working
 
 <p align="left">
   <a href="https://www.linkedin.com/in/Martyna Toporek/" target="_blank">
-    <img src="images/linkedin.png" alt="LinkedIn" width="20" height="20" />
+    <img src="images/LinkedIn_logo.png" alt="LinkedIn" width="20" height="20" />
   </a>
 </p>
