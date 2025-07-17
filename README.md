@@ -13,7 +13,7 @@ Projects are organized into folders and pinned for quick access
    git clone https://github.com/YOUR_USERNAME/project-name.git
 
 
-- [📁 Projekt 1](projekt 1/README.md)
-- [📁 Projekt 2](projekt 2/README.md)
-- [📁 Projekt 3](projekt 3/README.md)
-- [📁 Projekt 4](projekt 4/README.md)
+- [📁 Project 1](project 1/README.md)
+- [📁 Project 2](project 2/README.md)
+- [📁 Project 3](project 3/README.md)
+- [📁 Project 4](project 4/README.md)
