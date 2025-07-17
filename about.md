@@ -15,5 +15,5 @@ I am technical communications professional with 10 + years’ experience working
 
 
 <a href="https://www.linkedin.com/in/LinkedIn_logo.png/">
-  <img src="images/LinkedIn_logo.png" alt="LinkedIn" width="30" height="30">
-</a>[Martyna Toporek](https://www.linkedin.com/in/martyna-toporek-a72237153/?trk=opento_sprofile_details)
+  <img src="images/LinkedIn_logo.png" alt="LinkedIn" width="20" height="20">
+</a> ![Martyna Toporek](https://www.linkedin.com/in/martyna-toporek-a72237153/?trk=opento_sprofile_details)
