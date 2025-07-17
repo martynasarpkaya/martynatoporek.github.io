@@ -12,6 +12,4 @@ Projects are organized into folders and pinned for quick access
    ```bash
    git clone https://github.com/YOUR_USERNAME/project-name.git
 
-<a href="https://www.linkedin.com/in/LinkedIn_logo.png/">
-  <img src="images/LinkedIn_logo.png" alt="LinkedIn" width="40" height="40">
-</a>
+
