@@ -8,12 +8,12 @@ To view or use the portfolio:
 👉[Martyna Toporek](https://github.com/martynasarpkaya/martynatoporek.github.io)
 2. **Explore the repositories**,
 Projects are organized into folders and pinned for quick access
+- 📁[project 1](project 1/README.md)
+- 📁[project 2](project 2/README.md)
+- 📁[project 3](project 3/README.md)
+- 📁[project 4](project 4/README.md)
+
 3. **Clone a repository** to your local machine:
    ```bash
    git clone https://github.com/YOUR_USERNAME/project-name.git
 
-
-- 📁[project 1](project 1)
-- 📁[project 2](project 2/README.md)
-- 📁[project 3](project 3/README.md)
-- 📁[project 4](project 4/README.md)
