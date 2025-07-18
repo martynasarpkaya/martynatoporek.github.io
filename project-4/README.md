@@ -8,9 +8,9 @@ The articles are in Polish but you can easly translate them 😉
 
 ## How to translate the TechWriter.pl website into English?
 🔎 Using Google Chrome:
-1.Go to: [TechWriter.pl](https://techwriter.pl).
-2.Right-click anywhere on the page.
-3.Select “Translate to English.”
+1. Go to: [TechWriter.pl](https://techwriter.pl).
+2. Right-click anywhere on the page.
+3. Select “Translate to English.”
   Done! The site will be automatically translated.
 
 🔎  Using Microsoft Edge:
