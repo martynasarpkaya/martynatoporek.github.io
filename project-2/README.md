@@ -4,4 +4,4 @@ As part of a project for the healthcare sector, I developed comprehensive user d
 
 Designed with clarity and precision in mind, the material is intended to provide ease of use for healthcare professionals. The goal was to support safe, effective use of the software in clinical conditions.
 
-[Click to open PDF](sample_medical_documatation.pdf)
+[Click to open PDF](sample_medical_ documatation.pdf)
