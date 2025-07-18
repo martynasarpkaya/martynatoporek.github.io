@@ -4,21 +4,21 @@ In my free time, I collaborate with TechWriter.pl, contributing articles on tech
 
 [Click here to read the articles](https://techwriter.pl/authors/toporek/authors/2)
 
-The articles are in Polish but you can translate them 😉,
+The articles are in Polish but you can easly translate them 😉
 
-## How to translate the TechWriter.pl website into English
-✅ Using Google Chrome:
-Go to: [TechWriter.pl](https://techwriter.pl).
-Right-click anywhere on the page.
-Select “Translate to English.”
-Done! The site will be automatically translated.
+## How to translate the TechWriter.pl website into English?
+🔎 Using Google Chrome:
+1.Go to: [TechWriter.pl](https://techwriter.pl).
+2.Right-click anywhere on the page.
+3.Select “Translate to English.”
+  Done! The site will be automatically translated.
 
-✅ Using Microsoft Edge:
-Go to: [TechWriter.pl](https://techwriter.pl).
-Edge should automatically offer to translate the page, click “Translate.”
-If it does not, click the translate icon in the address bar and select English.
+🔎  Using Microsoft Edge:
+1. Go to: [TechWriter.pl](https://techwriter.pl).
+2. Edge should automatically offer to translate the page, click “Translate.”
+3. If not, click the translate icon in the address bar and select English.
 
-✅ Using Safari (on macOS):
-Go to: [TechWriter.pl](https://techwriter.pl).
-Click the aA icon in the address bar.
-Select “Translate to English.”
+🔎  Using Safari (on macOS):
+1. Go to: [TechWriter.pl](https://techwriter.pl).
+2. Click the **aA** icon in the address bar.
+3. Select “Translate to English.”
