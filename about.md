@@ -13,9 +13,4 @@ I am technical communications professional with 10 + years’ experience working
 ## Kontakt
 📨 martyna.toporek@gmail.com
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/martyna-toporek-a72237153/" target="_blank">
-    <img src="images/LinkedIn_logo.png" alt="LinkedIn" width="20" height="20" style="vertical-align: middle;"/> 
-       <span style="font-size: 16px; vertical-align: middle; margin-left: 8px;"> Martyna Toporek</span>
-  </a>
-</p>
+
