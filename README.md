@@ -1,6 +1,13 @@
 # My GitHub Portfolio 
 Welcome to my portfolio! This repository walks you through my projects, skills, and samples of my work. Whether you're a recruiter or collaborator — feel free to explore 😉!
 
+# Who am I?
+I am technical communications professional with 10 + years’ experience working with a wide variety of customers, products, and end-user groups.
+
+# Kontakt
+📨 martyna.toporek@gmail.com
+
+LinkedIn Martyna Toporek
 
 ### Getting started
 To view or use the portfolio:
