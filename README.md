@@ -18,6 +18,9 @@ To view or use the portfolio:
 - 📁[project-5](project-5/README.md)
   
 ## Kontakt
+
+The portfolio is only a part of my experience - Do not hesitate to contact me if you want to learn more.
+
 📨 martyna.toporek@gmail.com
 
 <p align="left">
