@@ -20,7 +20,7 @@ Projects are organized into folders and pinned for quick access
    git clone https://github.com/YOUR_USERNAME/project-name.git
 
 <sub>
-**Disclaimer**:
+Disclaimer:
 The content presented in this portfolio is intended for use for recruitment purposes only. Some examples have been adjusted, anonymized or recreated to protect confidential information and to comply with client contracts.
 All opinions and interpretations expressed are my own and do not necessarily reflect the views of former or current employers, clients or colleagues.
 Use of any content without permission is not permitted.
