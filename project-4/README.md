@@ -4,7 +4,7 @@ In my free time, I collaborate with TechWriter.pl, contributing articles on tech
 
 [Click here to read the articles](https://techwriter.pl/authors/toporek/authors/2)
 
-The articles are in Polish but you can easly translate them 😉
+(The articles are in Polish but you can easly translate them 😉)
 
 ## How to translate the TechWriter.pl website into English?
 🔎 Using Google Chrome:
