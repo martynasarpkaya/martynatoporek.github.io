@@ -1,10 +1,23 @@
 # My GitHub Portfolio 
 Welcome to my portfolio! This repository walks you through my projects, skills, and samples of my work. Whether you're a recruiter or collaborator — feel free to explore 😉!
 
-# Who am I?
+## Who am I?
 I am technical communications professional with 10 + years’ experience working with a wide variety of customers, products, and end-user groups.
 
-# Kontakt
+
+## Getting started
+To view or use the portfolio:
+1. Visit my GitHub profile 👉[Martyna Toporek](https://github.com/martynasarpkaya/martynatoporek.github.io)
+2. View my current [CV](docs/Toporek_Martyna.pdf)
+3. Explore my selected projects, how I transform complex processes into effective, user-centered documentation:
+   Projects are organized into folders and pinned for quick access
+- 📁[project-1](project-1/README.md)
+- 📁[project-2](project-2/README.md)
+- 📁[project-3](project-3/README.md)
+- 📁[project-4](project-4/README.md)
+- 📁[project-5](project-5/README.md)
+  
+## Kontakt
 📨 martyna.toporek@gmail.com
 
 <p align="left">
@@ -14,23 +27,6 @@ I am technical communications professional with 10 + years’ experience working
   </a>
 </p>
 
-
-### Getting started
-To view or use the portfolio:
-1. Visit my GitHub profile 👉[Martyna Toporek](https://github.com/martynasarpkaya/martynatoporek.github.io)
-2. [About me](about.md)
-3. Explore my selected projects below to see how I transform complex processes into effective, user-centered documentation:
-   
-Projects are organized into folders and pinned for quick access
-- 📁[project-1](project-1/README.md)
-- 📁[project-2](project-2/README.md)
-- 📁[project-3](project-3/README.md)
-- 📁[project-4](project-4/README.md)
-- 📁[project-5](project-5/README.md)
-  
-3. **Clone a repository** to your local machine:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/project-name.git
 
 <sub>
 Disclaimer:
