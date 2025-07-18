@@ -6,7 +6,7 @@ In my free time, I collaborate with TechWriter.pl, contributing articles on tech
 
 (The articles are in Polish but you can easly translate them 😉)
 
-## How to translate the TechWriter.pl website into English?
+### How to translate the TechWriter.pl website into English?
 
 🔎 Using Google Chrome:
 1. Go to: [TechWriter.pl](https://techwriter.pl).
