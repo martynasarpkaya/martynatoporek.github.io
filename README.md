@@ -4,16 +4,16 @@ Welcome to my portfolio! This repository walks you through my projects, skills, 
 
 ## Getting started
 To view or use the portfolio:
-1. **Visit my GitHub profile**
-👉[Martyna Toporek](https://github.com/martynasarpkaya/martynatoporek.github.io)
-2. **Explore my selected projects below to see how I transform complex processes into effective, user-centered documentation**
+1. Visit my GitHub profile 👉[Martyna Toporek](https://github.com/martynasarpkaya/martynatoporek.github.io)
+2. Explore my selected projects below to see how I transform complex processes into effective, user-centered documentation
    
 Projects are organized into folders and pinned for quick access
 - 📁[project-1](project-1/README.md)
 - 📁[project-2](project-2/README.md)
 - 📁[project-3](project-3/README.md)
 - 📁[project-4](project-4/README.md)
-
+- 📁[project-5](project-5/README.md)
+  
 3. **Clone a repository** to your local machine:
    ```bash
    git clone https://github.com/YOUR_USERNAME/project-name.git
