@@ -2,7 +2,7 @@
 
 In my free time, I collaborate with TechWriter.pl, contributing articles on technical documentation and sharing knowledge in the field of technical communication. It’s a great opportunity for personal growth, exchanging experiences, and supporting the community of documentation professionals in Poland.
 
-[Click here to read one of the articles](https://techwriter.pl/tooltip-w-teorii-i-praktyce/)
+[Click here to read the articles](https://techwriter.pl/authors/toporek/authors/2))
 
 The articles are in Polish but you can translate them 😉,
 
